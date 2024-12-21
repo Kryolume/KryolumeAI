@@ -1,7 +1,5 @@
 # Kryolume: Revolutionizing Learning with AI and Crypto
 
-![Kryolume Logo](https://pbs.twimg.com/profile_images/1870489029059174400/TVZIOepQ_400x400.png)
-
 ![Kryolume Cover](https://pbs.twimg.com/profile_banners/1870486969580396545/1734794555/1500x500)
 
 **Kryolume** is more than a cryptocurrency; it’s a movement. By combining the power of artificial intelligence with blockchain technology, Kryolume creates a dynamic platform that redefines learning, exploration, and collaboration. Whether you're solving complex equations, diving into uncharted academic territories, or simply exploring the edges of AI, Kryolume makes it effortless and rewarding.
